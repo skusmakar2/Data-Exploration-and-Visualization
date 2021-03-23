@@ -15,4 +15,4 @@ https://mybinder.org/v2/gh/skusmakar2/Data-Exploration-and-Visualization/6e27404
 
 Ongoing
 Credit
-This notebook is created by @Shitanshu Kusmakar,PhD, a developer and researcher with background in Analytics and Data Scinece. Reach out at skusmakar2@gmail.com
+This notebook is created by @Shitanshu Kusmakar,PhD. 
