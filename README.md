@@ -10,7 +10,7 @@ The workshop is divided into five session covering:
 - Derving data descriptive statistics
 
 Excess the cloud deployment on 
-https://mybinder.org/v2/gh/skusmakar2/PythonWorkshop/81eb5cfe071936916fc9e34c5ea6a6f09682b7c4
+https://mybinder.org/v2/gh/skusmakar2/Data-Exploration-and-Visualization/6e274047dadffffe0bf7c15ad3cb3256eaae5706
 
 
 Ongoing
